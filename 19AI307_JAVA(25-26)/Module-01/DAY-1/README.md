@@ -11,14 +11,10 @@ Or she has a magic orb and her experience is at least 3 years
 
 Note: If either of the above conditions is satisfied, she is allowed to enter. Otherwise, she is rejected.
 
-### Input Format:
-First line: int power
-Second line: int rank
-Third line: boolean hasMagicOrb
-Fourth line: int experience
+### For example:
 
-### Output Format:
-Can Enter Arena: true/false
+<img width="282" height="277" alt="image" src="https://github.com/user-attachments/assets/ee39b974-a08b-4151-b75b-fdab6b0709fb" />
+
 
 ## AIM:
 
@@ -84,4 +80,5 @@ public class Arena
 ## RESULT:
 
 Thus, the Java program to check arena entry eligibility using variables and logical operators is executed successfully
+
 
