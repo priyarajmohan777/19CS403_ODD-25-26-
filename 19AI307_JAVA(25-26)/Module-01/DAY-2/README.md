@@ -9,12 +9,10 @@ Sleeper: ₹10/km
 AC: ₹15/km
 Seniors (>60): ₹7/km (any class)
 
-### Input format:
-5
-100
+### For example:
 
-### Output format:
-500
+<img width="138" height="207" alt="image" src="https://github.com/user-attachments/assets/5e596515-b012-4045-a453-5d45dfec4f4a" />
+
 
 Task: Accept age, distance and travel class (1 for Sleeper, 2 for AC)(follow the same order to get the inputs). Calculate fare.
 
@@ -104,3 +102,4 @@ public class Main
 ## RESULT:
 
 Thus, the Java program to calculate train ticket fare using conditional statements is implemented successfully
+
