@@ -83,3 +83,5 @@ public class Arena
 
 ## RESULT:
 
+Thus, the Java program to check arena entry eligibility using variables and logical operators is executed successfully
+
